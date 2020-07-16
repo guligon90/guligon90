@@ -2,7 +2,7 @@
 
 Full stack engineer at [@ahgorasistemas](https://ahgora.com/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Danilo%20Vieira-6633cc?style=flat-square&labelColor=6633cc&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lima-gonçalves-470ab9194/)](https://www.linkedin.com/in/guilherme-lima-gonçalves-470ab9194/)
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Lima%20Gonçalves-6633cc?style=flat-square&labelColor=6633cc&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lima-gonçalves-470ab9194/)](https://www.linkedin.com/in/guilherme-lima-gonçalves-470ab9194/)
 [![Google Badge](https://img.shields.io/badge/-guligon90@gmail.com-6633cc?style=flat-square&labelColor=6633cc&logo=microsoft&logoColor=white&link=mailto:guligon90@gmail.com)](mailto:guligon90@gmail.com)
 
 Enthusiast and student of Mathematics and Technology. Concerning software development for the web, my experience is concentrated on:
