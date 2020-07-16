@@ -9,7 +9,13 @@ Enthusiast and student of Mathematics and Technology. Concerning software develo
 
 - React ecosystem (React.js || React Native);
 - Node.js stacks (Express.js || Koa.js);
-- Python stacks (Django || FastAPI || Flask);
+- Python stacks (Django || FastAPI || Flask).
+
+My interests in Mathematics reside in the following fields:
+
+- Algebraizable logic systems;
+- Graph theory applied to computational complexity problems;
+- Numerical methods (PDEs & optimization).
 
 <!--
 **guligon90/guligon90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
