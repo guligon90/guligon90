@@ -7,10 +7,10 @@ Software engineer at [@ahgorasistemas](https://ahgora.com/)
 
 Enthusiast and student of Mathematics and Technology. Concerning software development, my experience is concentrated on:
 
-- React ecosystem (React.js || React Native);
-- Node.js stacks (Express.js || Koa.js);
-- Python stacks (Django || FastAPI || Flask);
-- Flutter, mostly for Android targets.
+- React ecosystem: (React.js || React Native) && TypeScript;
+- Node.js stacks: (Express.js || Koa.js) && TypeScript;
+- Python stacks: (Django || FastAPI || Flask);
+- Mobile: (Kotlin || Flutter) && Android.
 
 My interests in Mathematics reside in the following fields:
 
