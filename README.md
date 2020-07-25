@@ -15,7 +15,7 @@ Enthusiast and student of Mathematics and Technology. Concerning software develo
 My interests, concerning software architecture and design patterns, are:
 
  - Clean Architecture;
- - Domain-driven Design (DDD);
+ - Domain-Driven Design (DDD);
  - SOLID principles.
  
  Concerning the above topics, I recommend the reading of Khalil Stemmler's articles: (https://khalilstemmler.com/articles/).
