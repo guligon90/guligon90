@@ -19,7 +19,7 @@ My interests, concerning software architecture and design patterns, are:
  - Domain-Driven Design (DDD);
  - SOLID principles.
  
- Concerning the above topics, I recommend the reading of Khalil Stemmler's articles: (https://khalilstemmler.com/articles/).
+ Concerning the above topics, I recommend the reading of Khalil Stemmler's [articles](https://khalilstemmler.com/articles/). 
 
 My interests in Mathematics reside in the following fields:
 
