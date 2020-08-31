@@ -5,12 +5,13 @@ Software engineer, currently working with microservice-based applications for th
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Lima%20Gonçalves-6633cc?style=flat-square&labelColor=6633cc&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lima-gonçalves-470ab9194/)](https://www.linkedin.com/in/guilherme-lima-gonçalves-470ab9194/)
 [![Google Badge](https://img.shields.io/badge/-guligon90@gmail.com-6633cc?style=flat-square&labelColor=6633cc&logo=gmail&logoColor=white&link=mailto:guligon90@gmail.com)](mailto:guligon90@gmail.com)
 
-Enthusiast and student of Mathematics and Technology. Concerning software development, my experience is concentrated on:
+Enthusiast and student of Mathematics and technology. Concerning software development, my experience is concentrated on:
 
-- React ecosystem: (React.js || React Native) && TypeScript;
-- Node.js stacks: (Express.js || Koa.js) && TypeScript;
-- Python stacks: (Django || FastAPI || Flask);
-- Mobile: (Kotlin || Flutter) && Android.
+- TypeScript;
+- React ecosystem: React.js and React Native;
+- Node.js stacks: NestJS, Express and Koa.js;
+- Python stacks: Django, FastAPI and Flask;
+- Mobile: Flutter for Android.
 
 My interests, concerning software architecture and design patterns, are:
 
