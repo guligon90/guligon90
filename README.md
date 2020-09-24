@@ -29,6 +29,8 @@ My interests in Mathematics reside in the following fields:
 - Natural Language Processing;
 - Numerical methods (PDEs & optimization).
 
+[![Visits Badge](https://badges.pufler.dev/visits/guligon90/guligon90)](https://badges.pufler.dev)
+
 
 <!--
 **guligon90/guligon90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
