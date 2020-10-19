@@ -17,7 +17,8 @@ My interests, concerning software architecture and design patterns, are:
 
  - Clean Architecture;
  - Domain-Driven Design (DDD);
- - SOLID principles.
+ - SOLID principles;
+ - Functional programming with Go.
  
  Concerning the above topics, I recommend the reading of Khalil Stemmler's [articles](https://khalilstemmler.com/articles/). 
 
