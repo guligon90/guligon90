@@ -10,8 +10,7 @@ Enthusiast and student of Mathematics and technology. Concerning software develo
 - TypeScript;
 - React ecosystem: React.js and React Native;
 - Node.js stacks: NestJS, Express and Koa.js;
-- Python stacks: Django, FastAPI and Flask;
-- Mobile: Flutter for Android.
+- Python stacks: Django, FastAPI and Flask.
 
 My interests, concerning software architecture and design patterns, are:
 
