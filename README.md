@@ -5,31 +5,19 @@ Software engineer, currently working with microservice-based applications for th
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Lima%20Gonçalves-6633cc?style=flat-square&labelColor=6633cc&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guligon90/)](https://www.linkedin.com/in/guligon90/)
 [![Google Badge](https://img.shields.io/badge/-guligon90@gmail.com-6633cc?style=flat-square&labelColor=6633cc&logo=gmail&logoColor=white&link=mailto:guligon90@gmail.com)](mailto:guligon90@gmail.com)
 
-Enthusiast and student of Mathematics and technology. Concerning software development for the web, my experience is concentrated on:
-
-- TypeScript;
-- React ecosystem: React.js and React Native;
-- Node.js stacks: NestJS, Express and Koa.js;
-- Python stacks: Django, FastAPI and Flask.
-
-My interests, concerning software architecture and design patterns, are:
+Enthusiast and student of Mathematics and technology. My interests, concerning software architecture and design patterns, are:
 
  - Clean Architecture;
  - Domain-Driven Design (DDD);
  - SOLID principles;
- - Concurrency patterns with Go.
- 
- Concerning the above topics, I recommend the reading of Khalil Stemmler's [articles](https://khalilstemmler.com/articles/). 
+ - Distributed systems design;
+ - Concurrency patterns in Go.
 
 My interests in Mathematics reside in the following fields:
 
-- Algebraizable logic systems;
-- Artificial neural networks applied to data deduplication;
 - Graph theory applied to computational complexity problems;
 - Natural Language Processing;
 - Numerical methods (PDEs & optimization).
-
-[![Visits Badge](https://badges.pufler.dev/visits/guligon90/guligon90)](https://badges.pufler.dev)
 
 
 <!--
