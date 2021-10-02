@@ -14,22 +14,6 @@ Software engineer, currently working with microservice-based applications for th
 </p>
 -->
 
-
-Enthusiast and student of Mathematics and technology. My interests, concerning software architecture and design patterns, are:
-
- - Clean Architecture;
- - Domain-Driven Design (DDD);
- - SOLID principles;
- - Distributed systems design;
- - Concurrency patterns in Go.
-
-My interests in Mathematics reside in the following fields:
-
-- Graph theory applied to computational complexity problems;
-- Natural Language Processing;
-- Numerical methods (PDEs & optimization).
-
-
 <!--
 **guligon90/guligon90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
