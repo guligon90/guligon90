@@ -15,4 +15,4 @@ Software engineer, currently working with microservice-based applications for th
 </p>
 -->
 
-![Profile Statistics](https://github-readme-stats.vercel.app/api?username=guligon90&show_icons=true&theme=highcontrast)
+![Profile Statistics](https://github-readme-stats.vercel.app/api?username=guligon90&hide_title=true&show_icons=true&theme=dracula)
