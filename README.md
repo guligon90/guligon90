@@ -1,6 +1,6 @@
 # Guilherme Lima Gonçalves
 
-Currently working with microservice-based web applications.
+Currently working with microservice-based web applications, mostly in Python and TypeScript.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Lima%20Gonçalves-6633cc?style=flat-square&labelColor=6633cc&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guligon90/)](https://www.linkedin.com/in/guligon90/)
 <!-- [![Google Badge](https://img.shields.io/badge/-guligon90@gmail.com-6633cc?style=flat-square&labelColor=6633cc&logo=gmail&logoColor=white&link=mailto:guligon90@gmail.com)](mailto:guligon90@gmail.com)
@@ -15,4 +15,4 @@ Currently working with microservice-based web applications.
 </p>
 -->
 
-![Profile Statistics](https://github-readme-stats.vercel.app/api?username=guligon90&hide_title=true&include_all_commits=true&show_icons=true&theme=dracula)
+![Profile Statistics](https://github-readme-stats.vercel.app/api?username=guligon90&hide_title=true&langs_count=true&show_icons=true&theme=dracula)
