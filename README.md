@@ -15,4 +15,4 @@ Currently working with microservice-based web applications, mostly in Python and
 </p>
 -->
 
-![Profile Statistics](https://github-readme-stats.vercel.app/api?username=guligon90&hide_title=true&disable_anumations=true&show_icons=true&theme=dracula)
+<!-- ![Profile Statistics](https://github-readme-stats.vercel.app/api?username=guligon90&hide_title=true&disable_anumations=true&show_icons=true&theme=dracula) -->
