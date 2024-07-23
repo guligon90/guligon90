@@ -1,5 +1,1 @@
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-guligon90-6633cc?style=flat-square&labelColor=6633cc&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guligon90/)](https://www.linkedin.com/in/guligon90/)
-
-[![Medium](https://img.shields.io/badge/-@guligon90-12100E?style=flat-square&labelColor=12100E&logo=medium&logoColor=white&link=https://medium.com/@guligon90/)](https://medium.com/@guligon90)
-
-![](https://komarev.com/ghpvc/?username=guligon90) -->
+Trapped in a world where I have to work for incompetent animals just to survive. What? Were you expecting a cute and fragrant presentation? Were you expecting to see some meaningless soyboy Github stats in this README? Well, too bad for you. After 13 years working as a software engineer, and as a Math teacher, I no longer care.
